@@ -35,7 +35,7 @@
         </style>
     </head>
     <body>
-        <address>
+        <address class="sender-column">
             <p>
             <strong>Dr. Eleanor Gaye</strong><br>
             Awesome Science faculty<br>

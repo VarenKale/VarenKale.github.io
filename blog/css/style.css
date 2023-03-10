@@ -48,6 +48,9 @@
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
 
+aside {
+    text-align: right;
+}
 
 .subscribe {
     border: 0;

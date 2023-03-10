@@ -49,3 +49,12 @@
 /* ------ START WRITING YOUR CODE BELOW ------ */
 
 
+.subscribe {
+    border: 0;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1.5px;
+    padding-bottom: 1.5px;
+    background-color: forestgreen;
+    font-weight: bolder;
+}

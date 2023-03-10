@@ -58,3 +58,11 @@
     background-color: forestgreen;
     font-weight: bolder;
 }
+
+footer {
+    text-align: right;
+}
+
+.copyright {
+    text-align: left;
+}

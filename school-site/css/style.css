@@ -79,9 +79,15 @@ header, footer {
 
 /* Imported Typfaces */
 
+@font-face {
+    font-family: "josefinslab-regular";
+    src: local("josefinslab-regular")
+}
 
-
-
+@font-face {
+    font-family: "montserrat-regular";
+    src: local("montserrat-regular");
+}
 
 /* Typography Styles */
 
